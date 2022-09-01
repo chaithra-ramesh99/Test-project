@@ -1,4 +1,21 @@
 
+
+#!/bin/bash
+   # This script calculates simple interest ,
+
+
+   # Author: chaithra
+   # Additional Authors:
+   # <zy053c>
+
+   # I/t:
+   # p, principal amount
+   # t, time period in years
+   # r, annual rate of interest
+
+   # o/t:
+   # simple interest = p*t*r
+
 echo"Enter the principal:"
 read p    
 echo"Enter rate of interest per year:"
