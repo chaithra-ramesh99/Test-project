@@ -6,7 +6,7 @@
 
    # Author: chaithra
    # Additional Authors:
-   # <zy053c>
+   # <ch053c>
 
    # I/t:
    # p, principal amount
